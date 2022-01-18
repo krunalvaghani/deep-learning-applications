@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# keras .h5 model
+*.h5
+
+
+.idea/
